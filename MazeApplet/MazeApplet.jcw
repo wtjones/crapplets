@@ -1,0 +1,15 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "MazeApplet"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "MazeApplet.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "MazeApplet.java" #[EndFile]
+#[BeginFile]SOURCE := "classes\\MazeApplet.htm" #[EndFile]
+
+! Start Last Document Structure
+
